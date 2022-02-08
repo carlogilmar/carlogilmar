@@ -2,5 +2,5 @@
 <h3 align="center"> He/him 🙂 | Software Developer 💻 | Digital Artist 🎨 </h3>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Currently working on:</h3>
 <p align="left"> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> </p>

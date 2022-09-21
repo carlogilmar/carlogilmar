@@ -7,10 +7,6 @@
 ### ✌️ About me:
   
   - Currently work as a SWE at Erlang Solutions. ⭐️
-  - I studied Informatics Engineering at IPN. 💻
-  - I'm studying sociology at UNAM. 🤝
-  - Founder of Visual Partner-Ship. 🎨
-  - GitHub Campus Expert. 🚩
   - Visual Thinking trainer. 🖍
   - Love share, teach and talk in conferences. ❤️  
   - I was Mission Commander for Launch X 2022, an educational program by Innovacción Virtual and Microsoft.

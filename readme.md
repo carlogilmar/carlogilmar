@@ -1,8 +1,8 @@
 <h1 align="center">Carlo Gilmar</h1>
 
 <h3 align="center"> Check my visual resume 🎨: </h3>
-  
-![image](https://user-images.githubusercontent.com/17634377/191581908-14d28a40-2e69-461d-8694-5056359d4737.png)
+
+![Git Merge 2022 @carlogilmar](https://user-images.githubusercontent.com/17634377/192607281-69c38144-d247-49c8-83bf-03f312dcba74.png)
   
 ### ✌️ About me:
   

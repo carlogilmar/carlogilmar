@@ -1,7 +1,5 @@
 <h1 align="center">Carlo Gilmar</h1>
 
-<h3 align="center"> Check my visual resume 🎨: </h3>
-
 ![Git Merge 2022 @carlogilmar](https://user-images.githubusercontent.com/17634377/192607281-69c38144-d247-49c8-83bf-03f312dcba74.png)
   
 ### ✌️ About me:
@@ -11,7 +9,7 @@
   - Love share, teach and talk in **conferences**. ❤️  
   - I desinged and delivered a 3-week online training to learn backend best practices using NodeJS for mexican developers as a **Mission Commander** for **Launch X 2022**, an educational program by Innovacción Virtual and Microsoft.
   - I use to illustrate talks in real time to generate **graphic recordings**. I drew for conferences like **Code Beam, Elixir Conf, EMPEX Conf, GitHub Universe, GitHub Satellite, Octogatos Conf**. 
-  - I use to illustrate logos for tech events like **OctogatosConf 2022** and **DevRelCon LATAM**. 
+  - I made the logos design for **OctogatosConf 2022** and **DevRelCon LATAM**. 
   
 ### 🤩 My prefered technologies:
 

@@ -4,7 +4,7 @@
   
 ### ✌️ About me:
   
-  - Currently work as a SWE at **Erlang Solutions**. ⭐️
+  - Currently work as a SWE and illustrator at **Erlang Solutions**. ⭐️
   - **Visual Thinking** trainer. 🖍
   - Love share, teach and talk in **conferences**. ❤️  
   - I use to illustrate talks in real time to generate **graphic recordings**. I drew for conferences like **Code Beam, Elixir Conf, EMPEX Conf, GitHub Universe, GitHub Satellite, Octogatos Conf**. 

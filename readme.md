@@ -1,6 +1,4 @@
 <h1 align="center">Carlo Gilmar</h1>
-
-![Git Merge 2022 @carlogilmar](https://user-images.githubusercontent.com/17634377/192607281-69c38144-d247-49c8-83bf-03f312dcba74.png)
   
 ### ✌️ About me:
   

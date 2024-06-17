@@ -1,4 +1,30 @@
 <h1 align="center">Carlo Gilmar</h1>
+
+<p align="center">
+Hi! I'm a software engineer 💻 based in CDMX and a Visual Practitioner. 🎨
+</p>
+
+## About me
+
+- Focused on know more about 🚀 **Elixir, Erlang, and the BEAM**.
+- Technical **content creator**, trainer 📝 and **illustrator**.
+- **Visual Thinking** 🎨 for software development, founder of **Visual Partner-Ship**.
+- **Speaker** 🔈 (Git Merge 2022, AllThingsOpen 2024)
+- Currently work for **Erlang Solutions**.
+- I love design **illustrations** 🎇 for create dev swag. 
+
+<table width="100%">
+  <tbody>
+    <tr >
+      <td width="50%">
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/20f97d8c-0d7e-4637-9f6f-77eb3c251a27">
+      </td>
+      <td width="50%">
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/aaac5053-c988-42f4-b264-7832e8a793ea">
+      </td>
+    </tr>
+  </tbody>
+</table>
   
 ### ✌️ About me:
   

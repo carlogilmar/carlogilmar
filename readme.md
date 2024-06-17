@@ -11,11 +11,12 @@ Hi! I'm a software engineer 💻 based in CDMX and a Visual Practitioner. 🎨
 - **Visual Thinking** 🎨 for software development, founder of **Visual Partner-Ship**.
 - **Speaker** 🔈 (Git Merge 2022, AllThingsOpen 2024)
 - Currently work for **Erlang Solutions**.
-- I love design **illustrations** 🎇 for create dev swag. 
+- I love design **illustrations** 🎇 for create dev swag.
+- Fan of Git and VIM. 😮‍💨
 
 <table width="100%">
   <tbody>
-    <tr >
+    <tr>
       <td width="50%">
         <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/20f97d8c-0d7e-4637-9f6f-77eb3c251a27">
       </td>
@@ -23,25 +24,30 @@ Hi! I'm a software engineer 💻 based in CDMX and a Visual Practitioner. 🎨
         <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/aaac5053-c988-42f4-b264-7832e8a793ea">
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/adb654c3-0243-4827-8457-b21a6ec1bebc">
+      </td>
+      <td width="50%">
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/2ac843b7-88bb-4cb2-b5fe-c0fcb721889b">
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/818a56d6-02cc-49f7-b7cd-7959bc0e19fd">
+      </td>
+      <td width="50%">
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/e3c1e037-5768-47ab-83e5-0f20ca132100">
+      </td>
+    </tr>
   </tbody>
 </table>
-  
-### ✌️ About me:
-  
-  - Currently work as a SWE and illustrator at **Erlang Solutions**. ⭐️
-  - **Visual Thinking** trainer. 🖍
-  - Love share, teach and talk in **conferences**. ❤️  
-  - I use to illustrate talks in real time to generate **graphic recordings**. I drew for conferences like **Code Beam, Elixir Conf, EMPEX Conf, GitHub Universe, GitHub Satellite, Octogatos Conf**. 
-  - I made the logos design for **OctogatosConf 2022** and **DevRelCon LATAM**. 
-  
-### 🤩 My prefered technologies:
 
-<p align="left"> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="erlang" width="40" height="40"/> </a> 
-<a href="https://www.vim.org/docs.php" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="erlang" width="40" height="40"/> </a> 
-<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> 
-<a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> 
-</p>
+
+
+
+  
+
 
 ### GitHub Sponsorship: Visual Partner-Ship 🤑
 

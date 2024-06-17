@@ -13,6 +13,7 @@ Hi! I'm a software engineer 💻 based in CDMX and a Visual Practitioner. 🎨
 - Currently work for **Erlang Solutions**.
 - I love design **illustrations** 🎇 for create dev swag.
 - Fan of Git and VIM. 😮‍💨
+- GitHub orgs maintainer: [Visual Partner-ship](https://github.com/visualpartnership) & [The BEAM Developer](https://github.com/the-beam-developer) 📍.
 
 <table width="100%">
   <tbody>

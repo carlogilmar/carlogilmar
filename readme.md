@@ -43,25 +43,58 @@ Hi! I'm a software engineer 💻 based in CDMX and a Visual Practitioner. 🎨
   </tbody>
 </table>
 
-
-
-
-  
-
-
 ### GitHub Sponsorship: Visual Partner-Ship 🤑
+
+<a href="https://github.com/sponsors/carlogilmar" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"/>
+</a>
 
 **Thank you to my current and past GitHub sponsors.** ❤️ With their support, I can fund **Visual Partner-Ship**, a project that combines visual thinking and software development. This allows me to share **Visual Thinking** skills with tech enthusiasts through illustrations and open training sessions. 🎨
 
 I've implemented the open-source model on GitHub to develop training content for the community within the Visual Partner-Ship organization. Additionally, I've initiated coding projects using Elixir. If you want to become a part of my GitHub sponsors, you'll be supporting these activities.
 
-- [Visual Thinking Academy training material](https://github.com/visualpartnership/visualthinking)
-- [Curso Básico Git en español](https://github.com/carlogilmar/curso-git-esp)
-- [Commit Driven Development](https://github.com/carlogilmar/commit-driven-development)
-- [Node JS Backend Curso para Innovacción Virtual Launch X](https://github.com/carlogilmar/NodeJSCourse)
-- [Elixir Talks Graphic Recordings Gallery](https://github.com/carlogilmar/visual_partnership)
-- [Breve historia de Elixir y Erlang](https://github.com/the-beam-developer/welcome-elixir)
+<table width="100%">
+  <tr>
+    <td>
+      <a href="https://github.com/visualpartnership/visualthinking">
+        <p align="center">Visual Thinking Academy</p>
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/6a2c8754-a501-4465-9192-2daecd46037c" />
+       </a>
+    </td>
+    <td>
+      <a href="https://github.com/carlogilmar/curso-git-esp">
+        <p align="center">Curso de Git en español</p>
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/dae81df7-3ba6-402c-871e-470b4addf546" />
+       </a>
+    </td>
+    <td>
+      <a href="https://github.com/carlogilmar/commit-driven-development">
+        <p align="center">Commit Driven Development</p>
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/29017542-5063-41cf-b577-d809ed3b5e3f" />
+       </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/carlogilmar/NodeJSCourse">
+        <p align="center">Curso Node JS - Launch X</p>
+        <img src="https://user-images.githubusercontent.com/17634377/155241139-a345385a-7528-4aab-ae9a-9ed094d39250.png" />
+       </a>
+    </td>
+    <td>
+      <a href="https://github.com/carlogilmar/visual_partnership">
+        <p align="center">Graphic Recordings BEAM Community</p>
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/89c8f68f-5052-45eb-9e16-92b537e2938f" />
+       </a>
+    </td>
+    <td>
+      <a href="https://github.com/the-beam-developer/welcome-elixir">
+        <p align="center">Welcome Elixir</p>
+        <img src="https://github.com/carlogilmar/carlogilmar/assets/17634377/07e6e011-65bb-43a2-88db-125658cf42c9" />
+       </a>
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/sponsors/carlogilmar" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"/>
-</a>
+![Visual Thinking](https://github.com/carlogilmar/carlogilmar/assets/17634377/9e422bab-2e27-4be1-a175-6796bc4650ae)
+

@@ -6,6 +6,7 @@ Hi! I'm a software engineer 💻 based in CDMX and a Visual Practitioner. 🎨
 
 ## About me
 
+- Working right now with Smalltalk. Objects everywhere. 
 - Focused on know more about 🚀 **Elixir, Erlang, and the BEAM**.
 - Technical **content creator**, trainer 📝 and **illustrator**.
 - **Visual Thinking** 🎨 for software development, founder of **Visual Partner-Ship**.

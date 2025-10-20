@@ -7,10 +7,10 @@ Hi! I'm a software engineer 💻 based in CDMX and a Visual Practitioner. 🎨
 ## About me
 
 - Working right now with **Smalltalk**. _Objects everywhere._
-- Focused on know more about 🚀 **Elixir, Erlang, and the BEAM**.
-- Technical **content creator**, trainer 📝 and **illustrator**.
+- Experience in 🚀 **Elixir, Erlang, and the BEAM**. _Processes everywhere_
+- Technical **content creator**, trainer 📝 and **illustrator**. _Drawings everywhere_
 - **Visual Thinking** 🎨 for software development, founder of **Visual Partner-Ship**.
-- **Speaker** 🔈 (Git Merge 2022, AllThingsOpen 2024)
+- **Speaker** 🔈 (Git Merge 2022, AllThingsOpen 2024, Code BEAM Lite NYC 2024)
 - Currently work for **Erlang Solutions**.
 - I love design **illustrations** 🎇 for create dev swag.
 - Fan of Git and VIM. 😮‍💨

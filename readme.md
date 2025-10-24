@@ -1,7 +1,7 @@
 <h1 align="center">Carlo Gilmar</h1>
 
 <p align="center">
-Hi! I'm a creative software engineer 💻 based in CDMX. 🎨
+Hi! I'm a creative software engineer 💻 now in Switzerland. 🎨
 </p>
 
 ## About me

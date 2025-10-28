@@ -10,8 +10,7 @@ Hi! I'm a creative software engineer 💻 now in Switzerland. 🎨
 - Experience in 🚀 **Elixir, Erlang, and the BEAM**. _Processes everywhere_
 - Technical **content creator**, trainer 📝 and **illustrator**. _Drawings everywhere_
 - **Visual Thinking** 🎨 for software development, founder of **Visual Partner-Ship**.
-- **Speaker** 🔈 (Git Merge 2022, AllThingsOpen 2024, Code BEAM Lite NYC 2024)
-- Currently work for **Erlang Solutions**.
+- **Speaker** 🔈 (Git Merge Chicago 2022, AllThingsOpen NC 2024, Code BEAM Lite New York 2024)
 - I love design **illustrations** 🎇 for create dev swag.
 - Fan of Git and VIM. 😮‍💨
 - GitHub orgs maintainer: [Visual Partner-ship](https://github.com/visualpartnership) & [The BEAM Developer](https://github.com/the-beam-developer) 📍.
